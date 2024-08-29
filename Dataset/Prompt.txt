@@ -1,0 +1,2 @@
+Summarize Swahili text that I gave you in swahili, maintaining Understandability, Compactness, Grammaticality, Coherence, Faithfulness, Saliency.
+Summarize very shortly (in 1 line).
